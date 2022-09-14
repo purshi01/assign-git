@@ -27,4 +27,6 @@
 •  Why should you have different branches? 
     Ans : Branching allows each developer to branch out from the original code base and isolate their work from others. It also helps Git to easily merge versions later on.
 •  In a project how many remote Git repositories do you usually have? 
-    Ans : You can have as many remotes as you want, but you can only have one remote named "origin".
+    Ans : You can have as many remotes as you want, but you can only have one remote named "origin".\
+
+   This is Reviewing  by Ram
